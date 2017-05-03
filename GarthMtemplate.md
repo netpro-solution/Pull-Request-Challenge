@@ -2,7 +2,7 @@
 1.  For studying, paper or online?
     - Answer:paper
 2. Go to the theater or a movie?
-    - Answermovie
+    - Answer:movie
 3. Choose a free trip or money?
     - Answer:money
 4. Win the lottery or find your perfect job?
